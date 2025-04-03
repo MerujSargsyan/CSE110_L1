@@ -1,4 +1,4 @@
-![pfp](./Screenshots/Major.png)
+![pfp](./PFP.png)
 
 # Hi, I am Meruzhan Sargsyan 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg" alt="Armenian flag" width="30" />
